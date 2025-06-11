@@ -7,7 +7,7 @@ This project implements **K-means Clustering** on the Mall Customer dataset to s
 
 ---
 
-## 📁 Dataset
+##📁 Dataset
 
 - **Source**: [Kaggle - Mall Customer Segmentation Data](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial)
 - **File**: `Mall_Customers.csv`
