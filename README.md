@@ -38,7 +38,7 @@ To segment customers into distinct groups using **unsupervised learning** (K-mea
 
 1. Clone the repository:
 
-   git clone https://github.com/https://github.com/SumanSekhar-Sahoo/customer-segmentation-kmeans.git
+   git clone https://github.com/SumanSekhar-Sahoo/kmeans-customer-segmentation/tree/main
    cd customer-segmentation-kmeans
 `
 
